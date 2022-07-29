@@ -1,3 +1,4 @@
+# CURRENTLY, ONLY WORKING ON MAC
 import subprocess
 
 # 'sudo', weil sonst die BSSID nicht angezeigt wird
