@@ -65,4 +65,3 @@ class RoamingUtil:
         roaming_threat = threading.Thread(target=self.start_roaming_loop, name='bssid_threat', args=())
         roaming_threat.start()
         return roaming_threat
-

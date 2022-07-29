@@ -5,7 +5,6 @@
 
 from utils.PingUtil import PingUtil
 from utils.RoaminUtil import RoamingUtil
-import time
 
 
 if __name__ == '__main__':
