@@ -12,8 +12,6 @@ if __name__ == '__main__':
     ping_threat = ping_util.main()
     roaming_threat = roaming_util.main()
 
-    time.sleep(5)
-    roaming_util.bssid_1 = 98798
     roaming_threat.join()
 
     ping_util.set_pinging(False)

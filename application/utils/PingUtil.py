@@ -11,6 +11,7 @@ class PingUtil:
     responses = []
     bssid_changed = False
     bssid_change_written = False
+    iterations = 0
 
     def __init__(self, ip):
         self.ip = ip
@@ -31,7 +32,7 @@ class PingUtil:
 
     def write_responses(self):
         to_write = np.asarray(self.responses)
-        pd.DataFrame(to_write).to_csv("application/logs/pings.csv", index_label="Index", header=['Pings'])
+        pd.DataFrame(to_write).to_csv("logs/pings.csv", index_label="Index", header=['Pings'])
         self.responses = []
         print('Wrote pings to file.')
 
@@ -48,8 +49,11 @@ class PingUtil:
                 self.bssid_change_written = True
             ping_res = self.ping().split("\n")
             self.responses.append(self.remove_unnecessary_items(ping_res))
-            time.sleep(0.1)
+            self.iterations += 1
+            time.sleep(0.05)
 
+        self.responses.append('Iterations: ' + str(self.iterations))
+        time.sleep(5)
         self.write_responses()
 
     def main(self):

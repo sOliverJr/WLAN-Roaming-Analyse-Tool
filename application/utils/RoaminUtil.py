@@ -11,6 +11,7 @@ class RoamingUtil:
     counting = False
     check_roaming = True
     ping_util: None
+    iterations = 0
 
     def __init__(self, ping_util):
         self.bssid_1 = ''
@@ -42,7 +43,8 @@ class RoamingUtil:
 
         while self.check_roaming:
             self.bssid_2 = self.get_bssid()
-            print('BSSID: ' + self.bssid_2)
+            print('BSSID ' + str(self.iterations) + ': ' + self.bssid_2)
+            self.iterations += 1
 
             if self.bssid_1 != self.bssid_2 and not self.counting:
                 self.ping_util.bssid_changed = True
