@@ -6,7 +6,7 @@ command = 'sudo -S /System/Library/PrivateFrameworks/Apple80211.framework/Resour
 command = command.split()
 
 pc = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-result = pc.communicate(b'861553\n')    # Passwort eingeben -> Rückgabewert ist ein Tupel
+result = pc.communicate(b'password\n')    # Passwort eingeben -> Rückgabewert ist ein Tupel
 result = result[0].decode('UTF-8')      # Nur erste Tupel-Element ist Interessant und wird decodet
 
 # print(result)

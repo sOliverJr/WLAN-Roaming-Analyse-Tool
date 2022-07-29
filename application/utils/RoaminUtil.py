@@ -10,6 +10,15 @@ class RoamingUtil:
     counter = 0
     counting = False
     check_roaming = True
+    ping_util: None
+
+    def __init__(self, ping_util):
+        self.bssid_1 = ''
+        self.bssid_2 = ''
+        self.counter = 0
+        self.counting = False
+        self.check_roaming = True
+        self.ping_util = ping_util
 
     def get_bssid(self):
         """Returns BSSID of currently connected AP"""
@@ -36,6 +45,7 @@ class RoamingUtil:
             print('BSSID: ' + self.bssid_2)
 
             if self.bssid_1 != self.bssid_2 and not self.counting:
+                self.ping_util.bssid_changed = True
                 self.counting = True
                 print('Starting Counter')
             if self.counting:
@@ -50,7 +60,7 @@ class RoamingUtil:
 
     def main(self):
         """Creates and starts roaming_threat."""
-        roaming_threat = threading.Thread(target=self.start_roaming_loop, daemon=True, name='bssid_threat', args=())
+        roaming_threat = threading.Thread(target=self.start_roaming_loop, name='bssid_threat', args=())
         roaming_threat.start()
         return roaming_threat
 
