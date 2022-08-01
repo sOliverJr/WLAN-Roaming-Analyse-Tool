@@ -1,4 +1,4 @@
-# PAII-WLAN_Roaming_analysis_Tool
+# WLAN-Roaming analysis tool
 
 Dieses Tool soll der Analyse von Verzögerungen bei WLAN-Roaming dienen. Um das Skript zu Nutzen, muss dieses lediglich gestartet werden und in sich in dem gewünschten Bereich bewegt werden. Sobald ein Roaming-Vorgang erkannt wird, terminiert das Programm automatisch nach 5 weiteren Sekunden und speichert die Ergebnisse in die pings.csv Datei. 
 
