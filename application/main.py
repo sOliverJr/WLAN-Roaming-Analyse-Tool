@@ -1,19 +1,44 @@
-# CURRENTLY, ONLY WORKING ON MAC
+# CURRENTLY ONLY WORKING ON MAC AND WINDOWS
 # Needs to be run as superuser to get BSSID
 
 # Run 'sudo python3 -m main' in venv-terminal
 
 from utils.PingUtil import PingUtil
-from utils.RoaminUtil import RoamingUtil
+from utils.RoamingUtil import RoamingUtil
+from utils.FileWriter import FileWriter
+from dotenv import load_dotenv
+import time
+import os
 
 
 if __name__ == '__main__':
-    ping_util = PingUtil('8.8.8.8')
-    roaming_util = RoamingUtil(ping_util)
+    # Gets informations from the '.env' file
+    load_dotenv()
+    ping_ip = os.getenv('IP')
 
-    ping_threat = ping_util.main()
-    roaming_threat = roaming_util.main()
+    file_writer = FileWriter()
+    ping_util = PingUtil(ping_ip, file_writer)
+    roaming_util = RoamingUtil(file_writer)
 
-    roaming_threat.join()
+    running = True
+    network_overview = None
+    bssid_changed = False
+    counting = False
+    counter = 0
 
-    ping_util.set_pinging(False)
+    while running:
+        ping_util.iterate_once()
+        bssid_changed = roaming_util.iterate_once()
+
+        if bssid_changed and not counting:
+            counting = True
+            print("BSSID change detected, starting counter")
+        if counting:
+            counter += 1
+        if counter >= 50:
+            print("Counter = " + str(counter) + ", exiting...")
+            running = False
+
+        time.sleep(0.05)
+
+    file_writer.write_responses()
