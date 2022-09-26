@@ -1,0 +1,406 @@
+Index,Date: 2022.08.14-17:19:02
+0,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.962 ms
+1,RSSI: -53
+2,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=96.706 ms
+3,RSSI: -53
+4,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=105.332 ms
+5,RSSI: -52
+6,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.974 ms
+7,RSSI: -52
+8,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=88.138 ms
+9,RSSI: -52
+10,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=93.033 ms
+11,RSSI: -52
+12,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=61.380 ms
+13,RSSI: -53
+14,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=97.721 ms
+15,RSSI: -55
+16,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=70.592 ms
+17,RSSI: -55
+18,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=53.552 ms
+19,RSSI: -55
+20,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=92.995 ms
+21,RSSI: -55
+22,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=83.619 ms
+23,RSSI: -55
+24,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=88.759 ms
+25,RSSI: -55
+26,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=19.619 ms
+27,RSSI: -55
+28,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=16.984 ms
+29,RSSI: -55
+30,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=96.775 ms
+31,RSSI: -55
+32,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=95.110 ms
+33,RSSI: -55
+34,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=33.489 ms
+35,RSSI: -55
+36,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=109.558 ms
+37,RSSI: -56
+38,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=92.646 ms
+39,RSSI: -56
+40,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.613 ms
+41,RSSI: -57
+42,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=46.313 ms
+43,RSSI: -57
+44,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=97.267 ms
+45,RSSI: -58
+46,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=75.887 ms
+47,RSSI: -59
+48,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=99.337 ms
+49,RSSI: -59
+50,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.000 ms
+51,RSSI: -59
+52,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.852 ms
+53,RSSI: -60
+54,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.447 ms
+55,RSSI: -60
+56,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.271 ms
+57,RSSI: -59
+58,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.608 ms
+59,RSSI: -59
+60,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.960 ms
+61,RSSI: -58
+62,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.935 ms
+63,RSSI: -58
+64,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.190 ms
+65,RSSI: -58
+66,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.643 ms
+67,RSSI: -59
+68,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.490 ms
+69,RSSI: -59
+70,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.077 ms
+71,RSSI: -59
+72,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.653 ms
+73,RSSI: -60
+74,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.158 ms
+75,RSSI: -60
+76,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.141 ms
+77,RSSI: -59
+78,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.989 ms
+79,RSSI: -59
+80,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.187 ms
+81,RSSI: -58
+82,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.271 ms
+83,RSSI: -58
+84,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.052 ms
+85,RSSI: -58
+86,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.822 ms
+87,RSSI: -59
+88,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.913 ms
+89,RSSI: -60
+90,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.663 ms
+91,RSSI: -61
+92,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.027 ms
+93,RSSI: -61
+94,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.623 ms
+95,RSSI: -62
+96,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=20.897 ms
+97,RSSI: -62
+98,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.032 ms
+99,RSSI: -61
+100,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.984 ms
+101,RSSI: -62
+102,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.965 ms
+103,RSSI: -62
+104,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.715 ms
+105,RSSI: -62
+106,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.092 ms
+107,RSSI: -62
+108,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.054 ms
+109,RSSI: -63
+110,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.779 ms
+111,RSSI: -64
+112,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.057 ms
+113,RSSI: -64
+114,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.964 ms
+115,RSSI: -62
+116,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.062 ms
+117,RSSI: -62
+118,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.014 ms
+119,RSSI: -62
+120,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.950 ms
+121,RSSI: -64
+122,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.491 ms
+123,RSSI: -63
+124,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.670 ms
+125,RSSI: -63
+126,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.333 ms
+127,RSSI: -63
+128,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.943 ms
+129,RSSI: -63
+130,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.402 ms
+131,RSSI: -62
+132,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.233 ms
+133,RSSI: -63
+134,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.591 ms
+135,RSSI: -63
+136,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.034 ms
+137,RSSI: -63
+138,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.697 ms
+139,RSSI: -63
+140,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.716 ms
+141,RSSI: -64
+142,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.166 ms
+143,RSSI: -64
+144,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.075 ms
+145,RSSI: -65
+146,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.125 ms
+147,RSSI: -65
+148,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.157 ms
+149,RSSI: -65
+150,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.026 ms
+151,RSSI: -64
+152,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.879 ms
+153,RSSI: -65
+154,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.596 ms
+155,RSSI: -64
+156,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.612 ms
+157,RSSI: -64
+158,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.629 ms
+159,RSSI: -65
+160,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.459 ms
+161,RSSI: -66
+162,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.556 ms
+163,RSSI: -67
+164,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.271 ms
+165,RSSI: -67
+166,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.551 ms
+167,RSSI: -68
+168,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.062 ms
+169,RSSI: -68
+170,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.095 ms
+171,RSSI: -67
+172,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.760 ms
+173,RSSI: -67
+174,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.383 ms
+175,RSSI: -69
+176,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.001 ms
+177,RSSI: -69
+178,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.589 ms
+179,RSSI: -69
+180,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.181 ms
+181,RSSI: -69
+182,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.345 ms
+183,RSSI: -69
+184,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.083 ms
+185,RSSI: -69
+186,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.165 ms
+187,RSSI: -70
+188,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.899 ms
+189,RSSI: -69
+190,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.027 ms
+191,RSSI: -69
+192,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.698 ms
+193,RSSI: -70
+194,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.072 ms
+195,RSSI: -70
+196,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.607 ms
+197,RSSI: -70
+198,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.974 ms
+199,RSSI: -70
+200,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.940 ms
+201,RSSI: -70
+202,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.992 ms
+203,RSSI: -70
+204,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.937 ms
+205,RSSI: -70
+206,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.952 ms
+207,RSSI: -71
+208,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.413 ms
+209,RSSI: -72
+210,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.669 ms
+211,RSSI: -73
+212,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.390 ms
+213,RSSI: -73
+214,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.215 ms
+215,RSSI: -74
+216,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.745 ms
+217,RSSI: -74
+218,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.699 ms
+219,RSSI: -74
+220,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=8.587 ms
+221,RSSI: -74
+222,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.051 ms
+223,RSSI: -73
+224,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.636 ms
+225,RSSI: -74
+226,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.948 ms
+227,RSSI: -74
+228,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.159 ms
+229,RSSI: -73
+230,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.691 ms
+231,RSSI: -73
+232,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.650 ms
+233,RSSI: -73
+234,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.359 ms
+235,RSSI: -73
+236,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.144 ms
+237,RSSI: -74
+238,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.949 ms
+239,RSSI: -75
+240,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.111 ms
+241,RSSI: -76
+242,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.515 ms
+243,RSSI: -77
+244,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.135 ms
+245,RSSI: -77
+246,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.805 ms
+247,RSSI: -77
+248,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.378 ms
+249,RSSI: -77
+250,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.665 ms
+251,RSSI: -77
+252,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.229 ms
+253,RSSI: -78
+254,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.299 ms
+255,RSSI: -77
+256,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.060 ms
+257,RSSI: -77
+258,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.756 ms
+259,RSSI: -76
+260,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.296 ms
+261,RSSI: -77
+262,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.672 ms
+263,RSSI: -77
+264,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.577 ms
+265,RSSI: -77
+266,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.115 ms
+267,RSSI: -78
+268,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.738 ms
+269,RSSI: -78
+270,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=46.787 ms
+271,RSSI: -78
+272,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=157.359 ms
+273,RSSI: -78
+274,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=11.001 ms
+275,RSSI: -79
+276,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=68.336 ms
+277,RSSI: -79
+278,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=38.935 ms
+279,RSSI: -81
+280,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=92.937 ms
+281,RSSI: -81
+282,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=15.309 ms
+283,RSSI: -81
+284,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=21.340 ms
+285,RSSI: -81
+286,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=98.731 ms
+287,RSSI: -81
+288,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=95.408 ms
+289,RSSI: -81
+290,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=21.675 ms
+291,RSSI: -82
+292,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=101.771 ms
+293,RSSI: -82
+294,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=94.399 ms
+295,RSSI: -83
+296,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=8.813 ms
+297,RSSI: -83
+298,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=26.880 ms
+299,RSSI: -83
+300,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=129.231 ms
+301,RSSI: -83
+302,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=41.013 ms
+303,RSSI: -84
+304,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=145.596 ms
+305,RSSI: -67
+306,#--------------   BSSID change detected!   --------------#
+307,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=8.884 ms
+308,RSSI: -69
+309,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.745 ms
+310,RSSI: -71
+311,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.182 ms
+312,RSSI: -71
+313,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.926 ms
+314,RSSI: -71
+315,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.393 ms
+316,RSSI: -71
+317,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.067 ms
+318,RSSI: -70
+319,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.452 ms
+320,RSSI: -70
+321,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.036 ms
+322,RSSI: -70
+323,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.274 ms
+324,RSSI: -70
+325,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.444 ms
+326,RSSI: -71
+327,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.932 ms
+328,RSSI: -71
+329,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.492 ms
+330,RSSI: -71
+331,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=9.999 ms
+332,RSSI: -72
+333,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=9.247 ms
+334,RSSI: -72
+335,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.377 ms
+336,RSSI: -71
+337,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.580 ms
+338,RSSI: -71
+339,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.031 ms
+340,RSSI: -69
+341,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.654 ms
+342,RSSI: -69
+343,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.282 ms
+344,RSSI: -71
+345,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.714 ms
+346,RSSI: -72
+347,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.928 ms
+348,RSSI: -73
+349,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.308 ms
+350,RSSI: -75
+351,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.897 ms
+352,RSSI: -76
+353,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.083 ms
+354,RSSI: -77
+355,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.445 ms
+356,RSSI: -78
+357,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=8.054 ms
+358,RSSI: -79
+359,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.397 ms
+360,RSSI: -78
+361,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=96.585 ms
+362,RSSI: -78
+363,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=103.534 ms
+364,RSSI: -78
+365,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=153.411 ms
+366,RSSI: -78
+367,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=99.144 ms
+368,RSSI: -78
+369,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=32.559 ms
+370,RSSI: -78
+371,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=8.158 ms
+372,RSSI: -77
+373,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=106.150 ms
+374,RSSI: -77
+375,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=106.113 ms
+376,RSSI: -77
+377,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=68.732 ms
+378,RSSI: -76
+379,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=92.783 ms
+380,RSSI: -76
+381,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=95.335 ms
+382,RSSI: -76
+383,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=9.890 ms
+384,RSSI: -75
+385,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=87.360 ms
+386,RSSI: -74
+387,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=94.108 ms
+388,RSSI: -74
+389,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=30.948 ms
+390,RSSI: -74
+391,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=103.996 ms
+392,RSSI: -75
+393,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.181 ms
+394,RSSI: -57
+395,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.348 ms
+396,RSSI: -58
+397,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.041 ms
+398,RSSI: -58
+399,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.537 ms
+400,RSSI: -58
+401,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=4.667 ms
+402,RSSI: -59
+403,64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=5.234 ms
+404,RSSI: -59

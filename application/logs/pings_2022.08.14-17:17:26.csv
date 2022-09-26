@@ -1,0 +1,342 @@
+Index,Date: 2022.08.14-17:17:26
+0,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.939 ms
+1,RSSI: -36
+2,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.228 ms
+3,RSSI: -35
+4,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.199 ms
+5,RSSI: -34
+6,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.804 ms
+7,RSSI: -33
+8,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.769 ms
+9,RSSI: -33
+10,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.749 ms
+11,RSSI: -33
+12,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.371 ms
+13,RSSI: -33
+14,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.729 ms
+15,RSSI: -34
+16,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.239 ms
+17,RSSI: -34
+18,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.783 ms
+19,RSSI: -34
+20,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.336 ms
+21,RSSI: -34
+22,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.557 ms
+23,RSSI: -34
+24,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.472 ms
+25,RSSI: -35
+26,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.836 ms
+27,RSSI: -34
+28,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.318 ms
+29,RSSI: -34
+30,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.003 ms
+31,RSSI: -34
+32,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=19.582 ms
+33,RSSI: -35
+34,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=14.940 ms
+35,RSSI: -34
+36,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.829 ms
+37,RSSI: -35
+38,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=19.191 ms
+39,RSSI: -35
+40,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.557 ms
+41,RSSI: -35
+42,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.000 ms
+43,RSSI: -35
+44,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.531 ms
+45,RSSI: -34
+46,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.720 ms
+47,RSSI: -35
+48,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.215 ms
+49,RSSI: -37
+50,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.921 ms
+51,RSSI: -40
+52,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.389 ms
+53,RSSI: -42
+54,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.432 ms
+55,RSSI: -43
+56,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.044 ms
+57,RSSI: -43
+58,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.071 ms
+59,RSSI: -42
+60,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.963 ms
+61,RSSI: -44
+62,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.331 ms
+63,RSSI: -44
+64,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.656 ms
+65,RSSI: -46
+66,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.288 ms
+67,RSSI: -48
+68,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.291 ms
+69,RSSI: -50
+70,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.798 ms
+71,RSSI: -50
+72,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.537 ms
+73,RSSI: -49
+74,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.842 ms
+75,RSSI: -49
+76,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.808 ms
+77,RSSI: -50
+78,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.794 ms
+79,RSSI: -49
+80,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.923 ms
+81,RSSI: -49
+82,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.735 ms
+83,RSSI: -50
+84,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.837 ms
+85,RSSI: -50
+86,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=54.127 ms
+87,RSSI: -50
+88,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.566 ms
+89,RSSI: -50
+90,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.559 ms
+91,RSSI: -50
+92,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.068 ms
+93,RSSI: -49
+94,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.185 ms
+95,RSSI: -50
+96,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=20.602 ms
+97,RSSI: -51
+98,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.848 ms
+99,RSSI: -52
+100,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.514 ms
+101,RSSI: -52
+102,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.568 ms
+103,RSSI: -51
+104,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.030 ms
+105,RSSI: -51
+106,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.432 ms
+107,RSSI: -51
+108,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.426 ms
+109,RSSI: -51
+110,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.643 ms
+111,RSSI: -52
+112,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=20.750 ms
+113,RSSI: -52
+114,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.599 ms
+115,RSSI: -52
+116,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.391 ms
+117,RSSI: -53
+118,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.870 ms
+119,RSSI: -53
+120,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.293 ms
+121,RSSI: -53
+122,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.543 ms
+123,RSSI: -53
+124,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.105 ms
+125,RSSI: -53
+126,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.785 ms
+127,RSSI: -53
+128,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.553 ms
+129,RSSI: -53
+130,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.113 ms
+131,RSSI: -53
+132,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.703 ms
+133,RSSI: -53
+134,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.731 ms
+135,RSSI: -54
+136,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.456 ms
+137,RSSI: -54
+138,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.913 ms
+139,RSSI: -56
+140,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.127 ms
+141,RSSI: -57
+142,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.539 ms
+143,RSSI: -57
+144,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=20.779 ms
+145,RSSI: -57
+146,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.747 ms
+147,RSSI: -58
+148,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.273 ms
+149,RSSI: -57
+150,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.801 ms
+151,RSSI: -59
+152,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=19.985 ms
+153,RSSI: -59
+154,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.238 ms
+155,RSSI: -60
+156,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.168 ms
+157,RSSI: -60
+158,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.092 ms
+159,RSSI: -60
+160,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.471 ms
+161,RSSI: -58
+162,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.511 ms
+163,RSSI: -56
+164,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.447 ms
+165,RSSI: -55
+166,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.183 ms
+167,RSSI: -56
+168,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.314 ms
+169,RSSI: -57
+170,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=39.146 ms
+171,RSSI: -59
+172,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.026 ms
+173,RSSI: -59
+174,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.974 ms
+175,RSSI: -59
+176,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.950 ms
+177,RSSI: -58
+178,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.945 ms
+179,RSSI: -58
+180,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=19.591 ms
+181,RSSI: -59
+182,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.168 ms
+183,RSSI: -59
+184,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.890 ms
+185,RSSI: -61
+186,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.247 ms
+187,RSSI: -61
+188,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.565 ms
+189,RSSI: -61
+190,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.333 ms
+191,RSSI: -62
+192,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.745 ms
+193,RSSI: -62
+194,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.983 ms
+195,RSSI: -63
+196,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.636 ms
+197,RSSI: -63
+198,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.772 ms
+199,RSSI: -64
+200,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.382 ms
+201,RSSI: -63
+202,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.017 ms
+203,RSSI: -64
+204,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.491 ms
+205,RSSI: -65
+206,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.177 ms
+207,RSSI: -64
+208,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.292 ms
+209,RSSI: -64
+210,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=14.963 ms
+211,RSSI: -64
+212,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=22.258 ms
+213,RSSI: -64
+214,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.720 ms
+215,RSSI: -65
+216,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.667 ms
+217,RSSI: -65
+218,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.533 ms
+219,RSSI: -66
+220,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.866 ms
+221,RSSI: -66
+222,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.898 ms
+223,RSSI: -66
+224,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.013 ms
+225,RSSI: -66
+226,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.492 ms
+227,RSSI: -66
+228,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.724 ms
+229,RSSI: -65
+230,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.879 ms
+231,RSSI: -65
+232,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=15.989 ms
+233,RSSI: -66
+234,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.203 ms
+235,RSSI: -67
+236,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.268 ms
+237,RSSI: -67
+238,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.221 ms
+239,RSSI: -68
+240,
+241,RSSI: -41
+242,#--------------   BSSID change detected!   --------------#
+243,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.525 ms
+244,RSSI: -41
+245,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.545 ms
+246,RSSI: -40
+247,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.682 ms
+248,RSSI: -40
+249,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.798 ms
+250,RSSI: -39
+251,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.068 ms
+252,RSSI: -39
+253,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.384 ms
+254,RSSI: -39
+255,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.916 ms
+256,RSSI: -39
+257,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.647 ms
+258,RSSI: -40
+259,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.145 ms
+260,RSSI: -40
+261,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.645 ms
+262,RSSI: -41
+263,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.169 ms
+264,RSSI: -41
+265,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.588 ms
+266,RSSI: -42
+267,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.775 ms
+268,RSSI: -42
+269,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=20.512 ms
+270,RSSI: -42
+271,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=22.686 ms
+272,RSSI: -42
+273,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.385 ms
+274,RSSI: -42
+275,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.415 ms
+276,RSSI: -42
+277,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.295 ms
+278,RSSI: -42
+279,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.642 ms
+280,RSSI: -42
+281,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.409 ms
+282,RSSI: -41
+283,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.267 ms
+284,RSSI: -41
+285,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=21.321 ms
+286,RSSI: -41
+287,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.668 ms
+288,RSSI: -41
+289,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.949 ms
+290,RSSI: -41
+291,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.960 ms
+292,RSSI: -42
+293,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.365 ms
+294,RSSI: -41
+295,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.148 ms
+296,RSSI: -41
+297,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=37.499 ms
+298,RSSI: -42
+299,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.997 ms
+300,RSSI: -42
+301,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.574 ms
+302,RSSI: -42
+303,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.390 ms
+304,RSSI: -43
+305,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.822 ms
+306,RSSI: -44
+307,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=16.842 ms
+308,RSSI: -44
+309,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.841 ms
+310,RSSI: -44
+311,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.539 ms
+312,RSSI: -45
+313,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.695 ms
+314,RSSI: -44
+315,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.777 ms
+316,RSSI: -44
+317,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.434 ms
+318,RSSI: -44
+319,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.852 ms
+320,RSSI: -44
+321,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.329 ms
+322,RSSI: -44
+323,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.093 ms
+324,RSSI: -44
+325,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.932 ms
+326,RSSI: -44
+327,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=18.009 ms
+328,RSSI: -44
+329,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.097 ms
+330,RSSI: -44
+331,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.472 ms
+332,RSSI: -44
+333,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.846 ms
+334,RSSI: -44
+335,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.884 ms
+336,RSSI: -44
+337,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.410 ms
+338,RSSI: -44
+339,64 bytes from 172.23.98.120: icmp_seq=0 ttl=253 time=17.525 ms
+340,RSSI: -44

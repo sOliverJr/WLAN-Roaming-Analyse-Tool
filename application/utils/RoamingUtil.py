@@ -14,7 +14,7 @@ class RoamingUtil:
     def __init__(self, file_writer):
         self.command = self.get_correct_command().split()
         self.search_key = self.get_correct_rssid_key()
-        self.bssid_1 = self.get_bssid(self.execute_command())
+        self.bssid_1 = self.extract_bssid(self.execute_command())
         self.counter = 0
         self.file_writer = file_writer
 
